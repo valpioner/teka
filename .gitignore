@@ -40,3 +40,10 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Private keys (env vars)
+/server/config
+
+# Telegram
+/server/telegram/db
+/server/telegram/tdlib
