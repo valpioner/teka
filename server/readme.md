@@ -2,6 +2,13 @@
 
 > Backend API for Teka application, which is a product sharing platform
 
+## Links
+
+Tetegram app info: `https://my.telegram.org/apps`
+Airgram (wrapper for node.js to work with TDLib): `https://airgram.netlify.app/`
+TDLib (Telegram Database Library) docs: `https://core.telegram.org/tdlib`
+
+
 ## Usage
 
 Rename "config/config.env.env" to "config/config.env" and update the values/settings to your own
@@ -33,13 +40,3 @@ node seeder -d
 # Import all data
 node seeder -i
 ```
-
-## Demo
-
-The API is live at [devcamper.io](https://devcamper.io)
-
-Extensive documentation with examples [here](https://documenter.getpostman.com/view/8923145/SVtVVTzd?version=latest)
-
-- Version: 1.0.0
-- License: MIT
-- Author: Valentyn Vasylevskyy followed by udemy course created by Brad Traversy (https://www.udemy.com/course/nodejs-api-masterclass).
