@@ -1,0 +1,163 @@
+[
+    { 
+        "type": "область",
+        "name": "Дніпропетровська область",
+        "tag": "#Дніпропетровська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Донецька область",
+        "tag": "#Донецька_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Житомирська область",
+        "tag": "#Житомирська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Закарпатська область",
+        "tag": "#Закарпатська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Запорізька область",
+        "tag": "#Запорізька_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Івано-Франківська область",
+        "tag": "#Івано-Франківська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Київська область",
+        "tag": "#Київська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Кіровоградська область",
+        "tag": "#Кіровоградська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Луганська область",
+        "tag": "#Луганська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Львівська область",
+        "tag": "#Львівська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Миколаївська область",
+        "tag": "#Миколаївська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Одеська область",
+        "tag": "Одеська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Полтавська область",
+        "tag": "#Полтавська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Рівненська область",
+        "tag": "#Рівненська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Сумська область",
+        "tag": "#Сумська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Тернопільська область",
+        "tag": "#Тернопільська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Харківська область",
+        "tag": "#Харківська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Херсонська область",
+        "tag": "#Херсонська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Хмельницька область",
+        "tag": "#Хмельницька_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Черкаська область",
+        "tag": "#Черкаська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Чернівецька область",
+        "tag": "#Чернівецька_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "область",
+        "name": "Чернігівська область",
+        "tag": "#Чернігівська_область",
+        "alarm": null,
+        "alarmStartTime": null
+    },
+    { 
+        "type": "місто",
+        "name": "м. Київ",
+        "tag": "#м._Київ",
+        "alarm": null,
+        "alarmStartTime": null
+    }
+]
